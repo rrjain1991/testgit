@@ -1,0 +1,261 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.navbar-header{
+	background-color: #103757;
+	margin-left: -9px;
+}
+.logo{
+	color: #fff;
+}
+.name{
+	font-size: 25px;
+}
+.right_name{
+	margin-right: -30px;
+	padding: 2.5px;
+	background-color: #103757;
+	width: 100px;
+}
+.navvv{
+	background-color: #19456a;
+}
+.search{
+	/*width: 410%;*/
+	width: 227%;
+	height: 43px;
+	margin-left: 40px;
+}
+.btn_plus{
+	padding: 8px 18px;
+	font-size: 18px;
+	margin-top: 8px;
+	margin-left: 26%;
+	font-weight: bold;
+}
+.main_div{
+	 background-color:#ecf4f7; 
+	 margin-top:-20px; 
+	 margin-left: 14px;
+	 border-bottom:3px solid #eee;
+}
+.listed_sites{
+	border: 1px solid #ccc;
+	border-top: 0;
+	box-shadow: 0 0 10px #999;
+	width: 24%;
+	margin-left: 0.6%;
+}
+.listed_sites1{
+	border-bottom: 5px solid orange;
+}
+.first{
+	color: green;
+}
+.second{
+	color: orange;
+}
+.third{
+	color: red;
+}
+.fourth{
+	color: #3679a3;
+}
+.main_div1{
+	background-color: #ecf4f7;
+	margin-left: 14px;
+}
+.pic{
+	width: 150px;
+	height: 150px;
+	line-height: 150px;
+	border-radius: 6px;
+	background-color: #fff;
+	text-align: center;
+	margin-top: 10px;
+	color: #333;
+	font-size: 25px;
+}
+.btn_edit{
+	margin-top: 5px;
+	padding: 5px 12px;
+	font-size: 12px;
+}
+.infoo{
+	margin-top: 10px;
+	border: 1px solid red;
+	color: red;
+	padding: 2px 5px;
+	width: 48%;
+	text-align: center;
+	border-radius: 3px;
+}
+.address{
+	color: #3679a3;
+	margin-bottom: 0px;
+}
+.addresss{
+	color: #3679a3;
+	margin-top: 10px;
+}
+.image{
+	width: 150px;
+	height: 110px;
+	line-height: 110px;
+	text-align: center;
+	background-color: #fff;
+	margin-left: 8px;
+	margin-top: 10px;
+	border-radius: 6px;
+}
+.divv{
+	border-bottom: 1px dotted #bcd6de;
+}
+.google{
+	background-color: #fff;
+	width: 100%;
+	/*height: 70px;*/
+	margin-top: 20px;
+	margin-bottom:5px;
+	border-radius: 2px;
+	border-left: 5px solid orange;
+	/*line-height: 70px;*/
+	padding: 10px 10px;
+}
+.google1{
+	background-color: #fff;
+	width: 100%;
+	/*height: 70px;*/
+	margin-top: 20px;
+	margin-bottom:5px;
+	border-radius: 2px;
+	border-left: 5px solid green;
+	/*line-height: 70px;*/
+	padding: 10px 10px;
+}
+.namee{
+	/*margin-top: 10px;*/
+}
+.namee1{
+	margin-bottom: 0;
+	margin-top: 0;
+}
+.namee2{
+	margin-bottom: 5px;
+	margin-top: 0;
+	color: #bbb;
+}
+.btnn{
+	float: right;
+	padding: 2px 18px;
+}
+.btnn1{
+	background-color: gray;
+	padding: 0px 10px;
+	border-radius: 6px;
+	float: right;
+	color: #fff;
+	height: 40px;
+	/*margin-top: 15px;*/
+	line-height: 40px;
+}
+.side_navv{
+	list-style: none;
+    padding: 10px 14px;
+    background-color: #fff;
+    width: 227.8%;
+    margin-left: -54px;
+    margin-top: 1px;
+    color: #0082ce;
+}
+.side_navv:hover{
+	background-color: #0082ce;
+	color: #fff;
+}
+.information{
+	font-size: 10px;
+    background-color: #bcd6de;
+    padding: 5px;
+    border-radius: 6px;
+    float: right;
+    cursor: pointer;
+    color: #5a838f;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+}
+.nav-tabs{
+	background-color: #ecf4f7;
+}
+.lisss{
+	 width: 10%;
+}
+.image_check{
+	 float: right;
+	 margin-top: -6px;
+}
+.busiiness_details{
+	margin-top: 20px;
+}
+.alert_pic{
+	 float: right;
+	 margin-top:-10px;
+	 margin-right: -11px;
+}
+.btnnn{
+	background-color: #999;
+	color: #fff;
+}
+@media(max-width: 768px){
+	.saloon{
+	margin-left: 100px;
+}
+  .listed_sites{
+	width: 100%;
+}
+.lisss{
+	 width: 100%;
+}
+.infoo{
+	width: auto;
+}
+.search{
+	/*width: 410%;*/
+	width: 100%;
+	height: 30px;
+	margin-left: 0px;
+}
+.btn_plus{
+	/*padding: 4px 14px;
+	font-size: 14px;
+	margin-top: 8px;
+	margin-left: 0%;
+	font-weight: bold;*/
+	display: none;
+}
+.right_name{
+	margin-right: 0px;
+	padding: 2.5px;
+	background-color: #103757;
+	width: 112%;
+	text-align: center;
+}
+.image_check{
+	 float: right;
+	 margin-top: 0px;
+}
+.busiiness_details{
+	margin-top: -10px;
+}
+.alert_pic{
+	 float: right;
+	 margin-top:-10px;
+	 margin-right: 12px;
+}
+.saloon{
+	margin-left: 0;
+}
+.nav-tabs > li{
+	    width: 30%;
+    font-size: 10px;
+}
+}
